@@ -39,18 +39,6 @@ Link to instructional YouTube video here: https://youtu.be/CEGoCUJDVVU
 - **Open a GitHub tab** - *Clicking employee GitHub usernames will open thier GitHub page in a new tab*
 
 
-<<<<<<< HEAD
----=
-## Questions
- 
- Feel free to contact me directly with questions or feedback about the project
-- GitHub Username: Istephensondev
-- Email: Istephensondev@gmail.com
-=======
----
-## Contributing
-
-
 
 ---
 ## Questions
