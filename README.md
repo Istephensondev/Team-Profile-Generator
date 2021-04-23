@@ -1,17 +1,5 @@
 # Team Profile Generator
     
-[![GitHub](https://img.shields.io/github/license/jscottrumptz/team-profile-generator)](https://github.com/jscottrumptz/team-profile-generator/blob/main/LICENSE/?target=_blank)
-![GitHub Repo stars](https://img.shields.io/github/stars/jscottrumptz/team-profile-generator?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/jscottrumptz/team-profile-generator?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/jscottrumptz/team-profile-generator)
-![GitHub language count](https://img.shields.io/github/languages/count/jscottrumptz/team-profile-generator)
-![GitHub top language](https://img.shields.io/github/languages/top/jscottrumptz/team-profile-generator)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jscottrumptz/team-profile-generator)
-![GitHub last commit](https://img.shields.io/github/last-commit/jscottrumptz/team-profile-generator)
-![GitHub issues](https://img.shields.io/github/issues-raw/jscottrumptz/team-profile-generator)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/jscottrumptz/team-profile-generator)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/jscottrumptz/team-profile-generator)
 
 ## Description
 Generate a HTML team profile page direct from your favorite command line application.   
@@ -56,24 +44,12 @@ Simply answer the prompts from the command line and let the application generate
 - **Open a GitHub tab** - *Clicking employee GitHub usernames will open thier GitHub page in a new tab*
 
 
----
-## Contributing
-![GitHub contributors](https://img.shields.io/github/contributors/jscottrumptz/team-profile-generator)
-
-This project operates under the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/?target=_blank). For more information see the [Contributer Covenant FAQ](https://www.contributor-covenant.org/faq/?target=_blank) or contact [J. Scott Rumptz](mailto:jscott@rumptz.tech?subject=Contribution%20question%20concerning%20team-profile-generator) with any additional questions or comments.
-
----
+---=
 ## Questions
-
-- [Request a new feature](mailto:jscott@rumptz.tech?subject=Feature%20request%20for%20team-profile-generator)
-- [Upvote popular feature requests](https://github.com/jscottrumptz/team-profile-generator/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc?target=_blank)
-- [File an issue](https://github.com/jscottrumptz/team-profile-generator/issues/new/?target=_blank)
-
-Also, feel free to contact me directly with questions or feedback about the project
-- GitHub Username: [jscottrumptz](https://github.com/jscottrumptz?target=_blank)
-- Email: [jscott@rumptz.tech](mailto:jscott@rumptz.tech?subject=Question%20about%20team-profile-generator)
-
----
+ 
+ Feel free to contact me directly with questions or feedback about the project
+- GitHub Username: Istephensondev
+- Email: Istephensondev@gmail.com
 
 ## Tests
 
@@ -83,7 +59,7 @@ Also, feel free to contact me directly with questions or feedback about the proj
 
 ---
 ## Credits
-Made with ❤️ by [J. Scott Rumptz](https://github.com/jscottrumptz/?target=_blank)
+Made with ❤️ by Ivy Stephenson 
 
 ### Third Party Assests Used
 - [Jest](https://www.npmjs.com/package/jest?target=_blank)
