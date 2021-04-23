@@ -1,6 +1,9 @@
 # Team Profile Generator
     
+<<<<<<< HEAD
 
+=======
+>>>>>>> ecb8865d5079ff9a44b70ab1322886a852eb2063
 ## Description
 Generate a HTML team profile page direct from your favorite command line application.   
 
@@ -30,13 +33,7 @@ Get your HTML file - Get your index.html file from the '/dist' directory.;
 
 ---
 ## Usage 
-[https://youtu.be/dH0eawWhAE0](https://youtu.be/dH0eawWhAE0?target=_blank) link to the [instructional video](https://youtu.be/dH0eawWhAE0?target=_blank)
- 
-    
-![screenshot](https://user-images.githubusercontent.com/74981245/107975576-ec3dcb80-6f7d-11eb-95a3-7d584f23b92e.png)
-
-Simply answer the prompts from the command line and let the application generate a useful HTML page featuring pertinent team member information.
-
+yo
 ---
 
 ## Features
@@ -44,12 +41,30 @@ Simply answer the prompts from the command line and let the application generate
 - **Open a GitHub tab** - *Clicking employee GitHub usernames will open thier GitHub page in a new tab*
 
 
+<<<<<<< HEAD
 ---=
 ## Questions
  
  Feel free to contact me directly with questions or feedback about the project
 - GitHub Username: Istephensondev
 - Email: Istephensondev@gmail.com
+=======
+---
+## Contributing
+
+
+
+---
+## Questions
+
+
+
+Also, feel free to contact me directly with questions or feedback about the project
+- GitHub Username: [jscottrumptz](https://github.com/jscottrumptz?target=_blank)
+- Email: [jscott@rumptz.tech](mailto:jscott@rumptz.tech?subject=Question%20about%20team-profile-generator)
+
+---
+>>>>>>> ecb8865d5079ff9a44b70ab1322886a852eb2063
 
 ## Tests
 
@@ -72,12 +87,4 @@ Made with ❤️ by Ivy Stephenson
 
 
 
----
-
-## License
-[![GitHub](https://img.shields.io/github/license/jscottrumptz/team-profile-generator)](https://github.com/jscottrumptz/team-profile-generator/blob/main/LICENSE/?target=_blank) more [details](https://github.com/jscottrumptz/team-profile-generator/blob/main/LICENSE/?target=_blank)
-
-This project utilizes the [MIT License](https://github.com/jscottrumptz/team-profile-generator/blob/main/LICENSE/?target=_blank).
-
-### ©️2021 J. Scott Rumptz
 
