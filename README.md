@@ -1,9 +1,6 @@
 # Team Profile Generator
     
-<<<<<<< HEAD
 
-=======
->>>>>>> ecb8865d5079ff9a44b70ab1322886a852eb2063
 ## Description
 Generate a HTML team profile page direct from your favorite command line application.   
 
@@ -33,7 +30,8 @@ Get your HTML file - Get your index.html file from the '/dist' directory.;
 
 ---
 ## Usage 
-yo
+
+Link to instructional YouTube video here: https://youtu.be/CEGoCUJDVVU
 ---
 
 ## Features
@@ -59,9 +57,9 @@ yo
 
 
 
-Also, feel free to contact me directly with questions or feedback about the project
-- GitHub Username: [jscottrumptz](https://github.com/jscottrumptz?target=_blank)
-- Email: [jscott@rumptz.tech](mailto:jscott@rumptz.tech?subject=Question%20about%20team-profile-generator)
+Feel free to contact me directly with questions or feedback about the project
+- GitHub Username: Istephensondev
+- Email: Istephensondev@gmail.com
 
 ---
 >>>>>>> ecb8865d5079ff9a44b70ab1322886a852eb2063
